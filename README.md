@@ -12,3 +12,4 @@ Sample projects on how to integrate your favorite test automation frameworks wit
 
 ## License
 [BSD 3-Clause License](https://github.com/gurock/automation-frameworks-integration/tree/main/LICENSE.md)
+##testing
